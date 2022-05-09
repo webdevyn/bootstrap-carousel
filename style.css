@@ -1,0 +1,30 @@
+body {
+    background-color: #8fbc8f;
+    margin: 20px;
+}
+
+h1 {
+    text-align: center;
+    margin-top: 10px;
+    font-family: 'Alfa Slab One', cursive;
+    font-size: 50px;
+}
+
+.col1 {
+    height: 80px;
+    background-color: #2e8b57;
+}
+
+.col2 {
+    height: 80px;
+    background-color: #D3D3D3;
+}
+
+#carouselControls {
+    padding-bottom: 20px;
+}
+
+footer {
+    margin-top: 10px;
+    font-family: sans-serif;
+}
