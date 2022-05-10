@@ -7,24 +7,32 @@ h1 {
     text-align: center;
     margin-top: 10px;
     font-family: 'Alfa Slab One', cursive;
-    font-size: 50px;
+    font-size: 60px;
+}
+
+h2 {
+    text-align: center;
+    margin-top: 10px;
 }
 
 .col1 {
-    height: 80px;
+    height: 20px;
     background-color: #2e8b57;
 }
 
 .col2 {
-    height: 80px;
+    height: 20px;
     background-color: #D3D3D3;
 }
 
 #carouselControls {
-    padding-bottom: 20px;
+    /* padding-bottom: 20px; */
+    border: 5px solid #2e8b57;
+    margin-bottom: 30px;
 }
 
 footer {
     margin-top: 10px;
     font-family: sans-serif;
 }
+
